@@ -1,0 +1,14 @@
+C:\Users\PC\Downloads\sucesionn\sucesionn\bin\Debug\sucesionn.exe.config
+C:\Users\PC\Downloads\sucesionn\sucesionn\bin\Debug\sucesionn.exe
+C:\Users\PC\Downloads\sucesionn\sucesionn\bin\Debug\sucesionn.pdb
+C:\Users\PC\Downloads\sucesionn\sucesionn\obj\Debug\sucesionn.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\sucesionn\sucesionn\obj\Debug\sucesionn.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\sucesionn\sucesionn\obj\Debug\sucesionn.exe
+C:\Users\PC\Downloads\sucesionn\sucesionn\obj\Debug\sucesionn.pdb
+C:\Users\Jeshua\Desktop\sucesionn-20181002T022437Z-001\sucesionn\sucesionn\bin\Debug\sucesionn.exe.config
+C:\Users\Jeshua\Desktop\sucesionn-20181002T022437Z-001\sucesionn\sucesionn\bin\Debug\sucesionn.exe
+C:\Users\Jeshua\Desktop\sucesionn-20181002T022437Z-001\sucesionn\sucesionn\bin\Debug\sucesionn.pdb
+C:\Users\Jeshua\Desktop\sucesionn-20181002T022437Z-001\sucesionn\sucesionn\obj\Debug\sucesionn.csprojResolveAssemblyReference.cache
+C:\Users\Jeshua\Desktop\sucesionn-20181002T022437Z-001\sucesionn\sucesionn\obj\Debug\sucesionn.csproj.CoreCompileInputs.cache
+C:\Users\Jeshua\Desktop\sucesionn-20181002T022437Z-001\sucesionn\sucesionn\obj\Debug\sucesionn.exe
+C:\Users\Jeshua\Desktop\sucesionn-20181002T022437Z-001\sucesionn\sucesionn\obj\Debug\sucesionn.pdb
